@@ -1,0 +1,49 @@
+.h2{
+    color: brown;
+    background-color: aqua;
+    font-size: 25px;
+
+}
+item{
+    color: white;
+    background-color: black;
+    font-size: 18px;
+}
+.name{
+    color: darkolivegreen;
+    background-color: darksalmon;
+    text-align: center;
+    font-size: 25px;
+}
+.odd{
+    background-color: aqua;
+    text-align: center;
+    font-size: 18px;
+}
+.even{
+    background-color: darksalmon;
+    text-align: center;
+    font-size: 18px;
+}
+.name2{
+    font-size: 25px;
+    background-color: peru;
+    color: chartreuse;
+}
+.poem{
+    color: aliceblue;
+    background-color: blue;
+    font-size: 18px;
+}
+.size_text{
+    font-size: 18px;
+}
+.end{
+    font-size: 50px;
+    background-color: blueviolet;
+    color: chocolate;
+    text-align: center;
+}
+
+
+
